@@ -22,4 +22,4 @@
 
 
 ## 🛠 Tech & Tools
-Programming : Python 
+ <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
