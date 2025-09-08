@@ -20,6 +20,8 @@
 
 ---
 
+---
+
 ## 🛠 Tech & Tools
 ```python
 skills = {
@@ -27,12 +29,6 @@ skills = {
     "Data Analysis": ["Jupyter Notebook", "Kaggle", "SQL (basic)"],
     "Tools": ["GitHub", "Colab", "Overleaf"]
 }
-📊 GitHub Stats
-<div align="center">
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=light" /> </p>
 
 
-
-
-</div>
-📫 Contact
-<div align="center"> <a href="mailto:rbdus551@naver.com"> <img src="https://img.shields.io/badge/Email-rbdus551@naver.com-blue?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
