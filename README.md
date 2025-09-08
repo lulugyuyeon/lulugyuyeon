@@ -27,3 +27,12 @@ skills = {
     "Data Analysis": ["Jupyter Notebook", "Kaggle", "SQL (basic)"],
     "Tools": ["GitHub", "Colab", "Overleaf"]
 }
+📊 GitHub Stats
+<div align="center">
+
+
+
+
+</div>
+📫 Contact
+<div align="center"> <a href="mailto:rbdus551@naver.com"> <img src="https://img.shields.io/badge/Email-rbdus551@naver.com-blue?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
