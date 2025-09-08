@@ -1,9 +1,9 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kyu%20Kim&fontSize=60&fontAlign=50&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=kumsal%20&fontSize=60&fontAlign=50&fontAlignY=40)
 
 <div align="center">
 
-### 👋 안녕하세요, 김규입니다!  
+### 👋 안녕하세요, 김규연입니다!  
 
 🎓 숭실대학교 AI융합학부 재학  
 💡 희망 직무: **MD / PM (제약 및 식품 산업)**  
