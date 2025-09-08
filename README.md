@@ -1,34 +1,29 @@
-
-<!-- Header: capsule-render API로 동적인 헤더 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Your%20Name’s%20GitHub&fontSize=60)
+<!-- Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kyu%20Kim&fontSize=60&fontAlign=50&fontAlignY=40)
 
 <div align="center">
-  <!-- 소개 문구 -->
-  ### 안녕하세요, 숭실대학교 AI융합학부 재학생입니다!
 
-  **AI융합학부 · Python · Aspiring MD∙PM (제약·식품)**
+### 👋 안녕하세요, 김규입니다!  
+
+🎓 숭실대학교 AI융합학부 재학  
+💡 희망 직무: **MD / PM (제약 및 식품 산업)**  
+🔍 관심 분야: **AI × 헬스케어 × 기능성식품 × 소비자 인사이트**  
+
 </div>
 
 ---
 
-##  소개
-- 현재 **숭실대학교 AI융합학부** 재학 중, AI와 데이터를 기반으로 **제약·식품 산업에서 MD/PM직무**에 관심 있어요.
-- 주 사용 언어: **Python**
-- “AI × Product Strategy”에 열정을 가지고 있습니다.
+## 📌 About Me
+- AI와 데이터 기반으로 **제약 및 식품 산업의 제품 전략**을 탐구 중  
+- Python을 활용한 **데이터 분석, 인사이트 발굴** 경험  
+- 기능성 식품 R&D, 소비자 분석, MVP 검증 프로젝트 경험  
 
 ---
 
-##  Skills & Tech
-<p align="center">
-  <!-- skill-icons를 활용한 깔끔한 기술 스택 아이콘 -->
-  <img src="https://skillicons.dev/icons?i=python&theme=light" />
-</p>
-
----
-
-##  GitHub Stats
-<div align="center">
-  <!-- GitHub 활동 통계 카드 (theme: radical 등 자유 선택 가능) -->
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=radical)
-</div>
+## 🛠 Tech & Tools
+```python
+skills = {
+    "Programming": ["Python (pandas, matplotlib, scikit-learn)"],
+    "Data Analysis": ["Jupyter Notebook", "Kaggle", "SQL (basic)"],
+    "Tools": ["GitHub", "Colab", "Overleaf"]
+}
