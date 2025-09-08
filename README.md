@@ -1,18 +1,25 @@
-## Hello World, I'm GYUYEON👋
 
+-# 👋 Hi, I'm  Gyuyeon kim
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lulugyuyeon&show_icons=true&theme=default)
-<!--
-**lulugyuyeon/lulugyuyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Soongsil University, AI Convergence (숭실대학교 AI융합학부)  
+💡 Aspiring **MD / PM in Pharma & Food Industry**  
+🔍 Interested in **Healthcare, Functional Foods, AI-driven Consumer Insights**
 
+---
 
+## 📌 About Me
+- Currently studying **AI & Data Science** with applications in healthcare and food tech  
+- Passionate about bridging **AI insights ↔ Product Planning (MD/PM)**  
+- Experienced in **functional food R&D, consumer insight analysis, and product strategy**  
+- Background in **academic projects, marketing, and MVP product validation**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech & Tools
+```python
+skills = {
+    "Programming": ["Python (pandas, matplotlib, scikit-learn)"],
+    "Data Analysis": ["Jupyter Notebook", "Kaggle", "SQL (basic)"],
+    "Tools": ["GitHub", "Overleaf", "Colab"]
+}
+
