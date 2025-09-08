@@ -22,7 +22,4 @@
 
 
 ## 🛠 Tech & Tools
-Programming : Python (pandas, matplotlib, scikit-learn)
-Data Analysis : Jupyter Notebook, Kaggle, SQL (basic)
-Tools : GitHub, Colab, Overleaf
-
+Programming : Python 
