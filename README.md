@@ -20,7 +20,6 @@
 
 ---
 
----
 
 ## 🛠 Tech & Tools
 ```python
@@ -29,6 +28,5 @@ skills = {
     "Data Analysis": ["Jupyter Notebook", "Kaggle", "SQL (basic)"],
     "Tools": ["GitHub", "Colab", "Overleaf"]
 }
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=light" /> </p>
 
 
