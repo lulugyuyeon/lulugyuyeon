@@ -25,3 +25,6 @@
  <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lulugyuyeon&show_icons=true&theme=default)
